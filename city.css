@@ -12,6 +12,7 @@
 body {
     padding: 0;
     margin: 0;
+    width: 97vw;
     box-sizing: border-box;
     font-family: 'Oswald', sans-serif;
     color: white;
